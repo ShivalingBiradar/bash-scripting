@@ -1,0 +1,13 @@
+#!/bin/bash
+
+Raju 
+
+Shivaling 
+
+Bangalore
+
+Mumbai
+
+Dehli
+
+Hyderabad
